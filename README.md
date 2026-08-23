@@ -40,7 +40,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/tanisha03-prt/tanisha03-prt/main/assets/coding-girl-illustration.svg" width="450"/>
 </p>
 
 I'm a Computer Science Engineering student passionate about **software engineering, problem solving, full-stack development, and AI/ML**.
