@@ -39,10 +39,6 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanisha03-prt/tanisha03-prt/main/assets/coding-girl-illustration.svg" width="450"/>
-</p>
-
 I'm a Computer Science Engineering student passionate about **software engineering, problem solving, full-stack development, and AI/ML**.
 
 I enjoy turning ideas into working applications while continuously strengthening my foundations in **Data Structures & Algorithms, DBMS, SQL, Operating Systems, and System Design**.
