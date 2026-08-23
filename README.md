@@ -39,6 +39,10 @@
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="450"/>
+</p>
+
 I'm a Computer Science Engineering student passionate about **software engineering, problem solving, full-stack development, and AI/ML**.
 
 I enjoy turning ideas into working applications while continuously strengthening my foundations in **Data Structures & Algorithms, DBMS, SQL, Operating Systems, and System Design**.
