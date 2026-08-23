@@ -191,26 +191,6 @@ Actively building new full-stack and AI/ML projects — check my GitHub for the 
 
 ---
 
-## 📚 Core Computer Science
-
-```text
-Data Structures & Algorithms
-        ↓
-Database Management Systems
-        ↓
-SQL & Database Design
-        ↓
-Operating Systems
-        ↓
-Object-Oriented Programming
-        ↓
-Computer Networks
-        ↓
-System Design
-```
-
----
-
 ## 🏆 Achievements & Milestones
 
 <p align="center">
@@ -230,36 +210,20 @@ System Design
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanisha03-prt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha03-prt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha03-prt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha03-prt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanisha03-prt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=tanisha03-prt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="65%"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanisha03-prt&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanisha03-prt&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha03-prt&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanisha03-prt/tanisha03-prt/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha03-prt&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -267,30 +231,10 @@ System Design
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - Dynamic Programming
-  - Database Management Systems
-  - System Design
-  - Backend Development
-  - Machine Learning
-
-Building:
-  - Full Stack Applications
-  - AI/ML Projects
-  - Developer Portfolio Projects
-
-Exploring:
-  - Scalable System Architecture
-  - Open Source
-  - Cloud Technologies
-  - Software Engineering Best Practices
-
-Open To:
-  - Software Engineering Internships
-  - AI/ML Collaborations
-  - Open Source Contributions
-  - Hackathons
+Learning:   Advanced DSA · System Design · Backend Development · Machine Learning
+Building:   Full Stack Apps · AI/ML Projects · Developer Portfolio
+Exploring:  Scalable Architecture · Open Source · Cloud Technologies
+Open To:    Internships · AI/ML Collaborations · Hackathons
 ```
 
 ---
