@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanisha Singh
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=200&section=header&text=Tanisha%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Tanisha%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,9 @@
   <img src="https://komarev.com/ghpvc/?username=tanisha03-prt&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:6d28d9&height=2&width=100%"/>
+</p>
 
 ## 🚀 About Me
 
@@ -41,138 +43,139 @@ I'm a Computer Science Engineering student passionate about **software engineeri
 
 I enjoy turning ideas into working applications while continuously strengthening my foundations in **Data Structures & Algorithms, DBMS, SQL, Operating Systems, and System Design**.
 
-### What I Focus On
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-* 💻 Building practical software projects
-* ☕ Strengthening **Java & Data Structures and Algorithms**
-* 🗄️ Learning **DBMS, SQL & database design**
-* 🌐 Developing full-stack applications
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🏗️ Understanding scalable software architecture and system design
-* 🧩 Solving programming problems consistently
-* 🚀 Improving engineering practices through hands-on projects
+### 🎯 What I Focus On
+- 💻 Building practical software projects
+- ☕ Strengthening **Java & DSA**
+- 🗄️ Learning **DBMS, SQL & database design**
+- 🌐 Developing full-stack applications
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🏗️ Understanding scalable system design
+- 🧩 Solving programming problems consistently
 
-### Open To
+</td>
+<td width="50%" valign="top">
 
-* Software Engineering Internships
-* Full Stack Development Opportunities
-* AI/ML Projects
-* Open Source Contributions
-* Hackathons & Technical Collaborations
+### 🌱 Open To
+- 💼 Software Engineering Internships
+- 🌐 Full Stack Development Opportunities
+- 🤖 AI/ML Projects
+- 🔓 Open Source Contributions
+- 🏆 Hackathons & Technical Collaborations
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
 </p>
 
-### Frontend
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 
-### Backend & Databases
+</td>
+<td align="center" valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
-</p>
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
 
-### Tools & Development
+</td>
+<td align="center" valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-</p>
+**Tools & Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 AI / ML Expertise
 
-| Domain            | Focus         | Details                                                      |
-| ----------------- | ------------- | ------------------------------------------------------------ |
-| Machine Learning  | 🟣 Developing | Supervised learning, classification and prediction workflows |
-| Data Processing   | 🟣 Developing | Data preparation and preprocessing                           |
-| Model Development | 🟣 Developing | Building and evaluating ML models                            |
-| AI Applications   | 🟣 Developing | Applying ML concepts to practical problems                   |
-| Python for ML     | 🟣 Developing | Python-based ML experimentation                              |
+| Domain | Focus | Details |
+|---|---|---|
+| 🤖 Machine Learning | 🟣 Developing | Supervised learning, classification & prediction workflows |
+| 🧹 Data Processing | 🟣 Developing | Data preparation and preprocessing |
+| 🧪 Model Development | 🟣 Developing | Building and evaluating ML models |
+| 🚀 AI Applications | 🟣 Developing | Applying ML concepts to practical problems |
+| 🐍 Python for ML | 🟣 Developing | Python-based ML experimentation |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔗 LifeLink — Organ Donation & Patient Management
-
-A database-driven platform designed around connecting **organ donors, hospitals, organs and patients**.
-
-| Attribute   | Details                                          |
-| ----------- | ------------------------------------------------ |
-| Stack       | HTML, CSS, JavaScript, Database                  |
-| Focus       | DBMS + Full Stack Development                    |
-| Database    | Relational Database                              |
-| Concepts    | ER Model, Normalization, SQL                     |
-| Engineering | Data relationships & integrity                   |
-| Repository  | [View Project](https://github.com/tanisha03-prt) |
-
-Key concepts explored:
-
-* ER modelling
-* Database normalization
-* 1NF, 2NF, 3NF & BCNF
-* Referential integrity
-* Relational schema design
-* SQL queries
-
----
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 Kharcha Tracker
+A personal expense-management app to track and organize day-to-day expenses.
 
-A personal expense-management application focused on tracking and organizing day-to-day expenses.
+**Stack:** JavaScript, Node.js, Express, CSS
+**Focus:** Full Stack Development
+**Backend:** REST-style server architecture
 
-| Attribute   | Details                                         |
-| ----------- | ----------------------------------------------- |
-| Stack       | JavaScript, Node.js, Express, CSS               |
-| Focus       | Full Stack Development                          |
-| Backend     | REST-style server architecture                  |
-| Engineering | API integration & application structure         |
-| Repository  | [View GitHub](https://github.com/tanisha03-prt) |
+[🔗 View Repository](https://github.com/tanisha03-prt)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ❤️ Heart Disease Prediction
+An AI/ML project predicting the likelihood of heart disease.
 
-An AI/ML project focused on predicting the likelihood of heart disease using machine learning techniques.
+**Stack:** Python, Machine Learning
+**Focus:** AI / ML — Predictive Modelling
+**Workflow:** Data → Preprocessing → Training → Prediction
 
-| Attribute  | Details                                         |
-| ---------- | ----------------------------------------------- |
-| Stack      | Python, Machine Learning                        |
-| Focus      | AI / ML                                         |
-| Type       | Predictive Modelling                            |
-| Workflow   | Data → Preprocessing → Training → Prediction    |
-| Repository | [View GitHub](https://github.com/tanisha03-prt) |
+[🔗 View Repository](https://github.com/tanisha03-prt)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌾 Harvest Guard — Digital Farm Advisor
+### ⚡ QuickAI — Instant AI Assistant
+A lightweight AI-powered assistant built for fast, on-the-fly Q&A and text generation.
 
-A web-based concept focused on helping farmers manage agricultural information and make informed decisions.
+**Stack:** Python, OpenAI/LLM API, Streamlit
+**Focus:** AI Application Development
+**Highlights:** Prompt engineering, real-time responses, simple & clean UI
 
-| Attribute   | Details                                         |
-| ----------- | ----------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript                           |
-| Focus       | Web Development                                 |
-| Domain      | Digital Agriculture                             |
-| Engineering | User-focused interface design                   |
-| Repository  | [View GitHub](https://github.com/tanisha03-prt) |
+[🔗 View Repository](https://github.com/tanisha03-prt)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 More Coming Soon
+Actively building new full-stack and AI/ML projects — check my GitHub for the latest.
+
+**Focus:** Continuous Learning & Building
+
+[🔗 Explore GitHub](https://github.com/tanisha03-prt)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Problem Solving
-
-### LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/tanisha_singh8603">
@@ -182,9 +185,9 @@ A web-based concept focused on helping farmers manage agricultural information a
   <img src="https://img.shields.io/badge/100%20Days-Badge-4C1D95?style=for-the-badge"/>
 </p>
 
-Focused areas:
-
-`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Binary Search` `Dynamic Programming` `Hashing` `Sliding Window` `Two Pointers`
+<p align="center">
+<code>Arrays</code> <code>Strings</code> <code>Linked Lists</code> <code>Stacks</code> <code>Queues</code> <code>Trees</code> <code>Graphs</code> <code>Binary Search</code> <code>Dynamic Programming</code> <code>Hashing</code> <code>Sliding Window</code> <code>Two Pointers</code>
+</p>
 
 ---
 
@@ -212,13 +215,13 @@ System Design
 
 <p align="center">
 
-| Recognition        | Details                                            |
-| ------------------ | -------------------------------------------------- |
-| 🧩 Problem Solving | 344+ LeetCode problems solved                      |
-| ☕ Java             | 333 Java problems solved on LeetCode               |
-| 🔥 Consistency     | 100 Days Badge — 2026                              |
-| 💻 GitHub          | 25 public repositories                             |
-| 🚀 Projects        | Multiple academic & practical development projects |
+| Recognition | Details |
+|---|---|
+| 🧩 Problem Solving | 344+ LeetCode problems solved |
+| ☕ Java | 333 Java problems solved on LeetCode |
+| 🔥 Consistency | 100 Days Badge — 2026 |
+| 💻 GitHub | 25 public repositories |
+| 🚀 Projects | Multiple academic & practical development projects |
 
 </p>
 
@@ -275,7 +278,6 @@ Learning:
 Building:
   - Full Stack Applications
   - AI/ML Projects
-  - Database-driven Systems
   - Developer Portfolio Projects
 
 Exploring:
@@ -310,7 +312,7 @@ Open To:
 ---
 
 <p align="center">
-  <b>“Build consistently. Solve problems. Keep learning.”</b>
+  <b>✨ "Build consistently. Solve problems. Keep learning." ✨</b>
 </p>
 
 <p align="center">
