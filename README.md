@@ -1,41 +1,41 @@
-
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=TANISHA%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=TANISHA%20SINGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9B7EDE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tanisha+Singh;Computer+Science+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Scalable+Software+%26+AI+Products" alt="Typing SVG"/>
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tanisha+Singh;Computer+Science+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Scalable+Software+%26+AI+Products" alt="Typing SVG"/>
 
-<img src="https://img.shields.io/badge/BE%20CSE-Chitkara%20University-6C5CE7?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.77-7B61FF?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab-5E35B1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<br><br>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Computer%20Science%20Engineering-Chitkara%20University-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.77-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Punjab%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/tanisha03-prt">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanisha-singh-51b610352">
-<img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Singh-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tanishasingh0302@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/tanisha03-prt">
-<img src="https://img.shields.io/badge/GitHub-tanisha03--prt-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/tanisha_singh8603">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tanisha03-prt&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/tanisha03-prt?style=flat-square&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/tanisha03-prt?style=flat-square&color=8B5CF6&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=tanisha03-prt&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
@@ -43,30 +43,28 @@
 
 ## 👩‍💻 About Me
 
-I’m **Tanisha Singh**, a Computer Science Engineering student at **Chitkara University**, currently pursuing my Bachelor of Engineering in Computer Science Engineering.
+Hi, I'm **Tanisha Singh**, a Computer Science Engineering student at **Chitkara University** with a strong foundation in software engineering and computer science fundamentals.
 
-I have a strong foundation in **Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP, and System Design**.
+I enjoy building **scalable, efficient, and user-focused applications** across the full stack. My current technical focus includes **Java, JavaScript, React.js, Node.js, Express.js, REST APIs, PostgreSQL, MongoDB, Redis, Docker, Git, and AWS**.
 
-I enjoy building **scalable, efficient, and user-focused software applications**, with hands-on experience in **Java, JavaScript, React.js, Node.js, Express.js, RESTful APIs, PostgreSQL, MongoDB, Redis, Docker, Git, and AWS**.
+I am also exploring **AI/ML and Generative AI**, particularly the integration of AI capabilities into modern full-stack applications.
 
-I am particularly interested in **AI/ML-powered products and full-stack engineering**, where I combine modern web technologies with AI APIs to create practical applications.
+### What I Work On
 
-### 🚀 What I Focus On
-
-- 💻 Software Engineering
+- 💻 Full-Stack Web Development
 - 🧩 Data Structures & Algorithms
-- ⚛️ Full-Stack Development
 - 🤖 AI/ML & Generative AI
+- ⚙️ RESTful API Development
 - 🔐 Authentication & Authorization
-- ⚙️ RESTful APIs
-- 🏗️ Backend & Microservices
-- 🗄️ Database Design & Optimization
+- 🗄️ Database Design
+- 🏗️ Backend Architecture
 - ☁️ Cloud & DevOps
 - 📐 System Design
+- 🚀 Product Engineering
 
-### 🎯 Open To
+### Open To
 
-**Software Engineering Internships · Full-Stack Development · Backend Engineering · AI/ML Projects · Open Source Collaboration**
+**Software Engineering Internships · Full-Stack Development · Backend Engineering · AI/ML Projects · Open Source**
 
 ---
 
@@ -75,59 +73,55 @@ I am particularly interested in **AI/ML-powered products and full-stack engineer
 ### Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,cpp"/>
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,js,cpp&perline=6"/>
+</a>
 </p>
 
 ### Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css"/>
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css&perline=6"/>
+</a>
 </p>
 
-### Backend & Databases
+### Backend
 
 <p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6"/>
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql,redis"/>
+### Databases
 
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=6"/>
+</a>
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,maven,postman,vscode,idea"/>
-
-</p>
-
-### Core CS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-5B21B6?style=for-the-badge"/>
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,maven,postman,vscode,idea&perline=8"/>
+</a>
 </p>
 
 ---
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Focus |
 |---|---|---|
-| Generative AI | 🟣 Advanced | Gemini API integration for AI-powered workflows |
-| AI Application Development | 🟣 Advanced | Building full-stack applications around AI utilities |
-| AI Product Engineering | 🟣 Advanced | Designing practical AI-powered SaaS experiences |
-| Full-Stack AI Integration | 🟣 Advanced | React.js + Node.js + Express.js + AI APIs |
-| Authentication | 🟣 Intermediate | Clerk authentication and protected routes |
-| Data Management | 🟣 Intermediate | PostgreSQL-based user and application data management |
+| Generative AI | Advanced | Gemini API integration |
+| AI Application Development | Advanced | AI-powered full-stack applications |
+| AI Product Engineering | Advanced | AI SaaS products |
+| Full-Stack AI Integration | Advanced | React + Node.js + AI APIs |
+| Authentication | Intermediate | Clerk, JWT, protected routes |
+| Data Management | Intermediate | PostgreSQL, MongoDB |
 
 ---
 
@@ -136,64 +130,72 @@ I am particularly interested in **AI/ML-powered products and full-stack engineer
 <details>
 <summary><b>💰 Kharcha Tracker — Expense Tracker</b></summary>
 
-<br/>
+<br>
 
-A full-stack expense tracking application that allows users to **log, categorize, analyze, and visualize personal expenses**.
+A full-stack expense tracking application that enables users to **log, categorize, analyze, and visualize personal expenses**.
 
 | Category | Details |
 |---|---|
-| **Stack** | React.js · Express.js · Node.js · MongoDB · JWT |
-| **Scale** | Full-Stack Web Application |
-| **Performance** | React 19 · Vite · RESTful APIs |
-| **Security** | JWT Authentication · bcrypt.js · Authorization |
-| **Impact** | Expense tracking · Spending analysis · Data visualization |
-| **Repository** | [GitHub](https://github.com/tanisha03-prt) |
+| **Stack** | React.js · Node.js · Express.js · MongoDB · JWT |
+| **Frontend** | React.js v19 · Vite · React Router DOM |
+| **Backend** | Node.js · Express.js v5 · REST APIs |
+| **Database** | MongoDB · Mongoose |
+| **Security** | JWT Authentication · bcrypt.js |
+| **Visualization** | Recharts |
+| **Impact** | Expense tracking · Spending analysis · Category breakdown |
 
-### Engineering Highlights
+### Key Engineering Work
 
 - Built a complete full-stack expense tracking application.
-- Implemented secure authentication and authorization using **JWT**.
-- Used **bcrypt.js** for secure password hashing.
-- Designed RESTful APIs using **Node.js and Express.js v5**.
+- Implemented secure authentication using **JWT**.
+- Used **bcrypt.js** for password hashing.
+- Designed RESTful APIs using **Node.js and Express.js**.
 - Modeled application data using **MongoDB and Mongoose ODM**.
-- Built interactive visualizations using **Recharts**.
-- Added category-wise spending breakdowns and spending trend analysis.
-- Developed a responsive frontend using **React.js v19**.
-- Used **React Router DOM and Vite** for frontend development.
+- Built interactive charts using **Recharts**.
+- Added spending trends and category-wise analysis.
+- Created a responsive frontend using **React.js v19**.
+- Used **Vite** for fast frontend development.
+
+**Repository:** [Kharcha Tracker](https://github.com/tanisha03-prt)
 
 </details>
+
+<br>
 
 <details>
 <summary><b>🤖 Quick AI — AI SaaS Platform</b></summary>
 
-<br/>
+<br>
 
 A full-stack AI SaaS platform providing multiple **AI-powered utilities through a unified dashboard**.
 
 | Category | Details |
 |---|---|
 | **Stack** | React.js · Node.js · Express.js · Gemini API · Clerk · PostgreSQL |
-| **Scale** | Full-Stack AI SaaS Platform |
-| **Performance** | React.js · REST APIs · Modular Architecture |
+| **Frontend** | React.js |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Database** | PostgreSQL |
+| **AI** | Google Gemini API |
 | **Security** | Clerk Authentication · Protected Routes |
 | **Impact** | AI responses · Content writing · Code assistance · Image-related tasks |
-| **Repository** | [GitHub](https://github.com/tanisha03-prt) |
 
-### Engineering Highlights
+### Key Engineering Work
 
-- Built a full-stack AI SaaS platform with multiple AI-powered utilities.
+- Built a full-stack AI SaaS platform.
 - Integrated the **Google Gemini API**.
-- Implemented AI functionality for:
+- Added AI functionality for:
   - Text generation
   - Content writing
   - Code assistance
   - Image-related tasks
-- Implemented secure authentication using **Clerk**.
-- Added protected application routes.
-- Developed responsive UI components using **React.js**.
-- Built REST APIs using **Node.js and Express.js**.
-- Managed application and user data using **PostgreSQL**.
+- Implemented authentication using **Clerk**.
+- Added protected routes.
+- Built responsive React.js components.
+- Developed REST APIs using Node.js and Express.js.
+- Managed user and application data using PostgreSQL.
 - Followed a clean and modular project architecture.
+
+**Repository:** [Quick AI](https://github.com/tanisha03-prt)
 
 </details>
 
@@ -201,26 +203,28 @@ A full-stack AI SaaS platform providing multiple **AI-powered utilities through 
 
 ## 💼 Experience
 
-### Full-Stack Development
+### Full-Stack Software Development
 
-**Software Engineering Projects**  
-`2024 — Present`
+**2024 — Present**
 
-Focused on building practical full-stack applications while strengthening core computer science and software engineering fundamentals.
+Focused on developing full-stack applications while strengthening core software engineering and computer science fundamentals.
 
-#### Scope of Work
+#### Areas of Work
 
-- Developed web applications using **React.js, Node.js, Express.js, MongoDB, and PostgreSQL**.
-- Designed and implemented **RESTful APIs**.
-- Implemented secure authentication using **JWT, bcrypt.js, and Clerk**.
-- Practiced database design, normalization, indexing, and RDBMS concepts.
-- Worked with **Git and GitHub** for version control.
-- Used **Postman** for API testing and development.
-- Explored cloud and deployment technologies including **AWS and Docker**.
-- Strengthened problem-solving skills through **Data Structures & Algorithms**.
-- Studied **System Design, Operating Systems, Computer Networks, and OOP**.
+- Full-stack web application development
+- RESTful API development
+- Authentication and authorization
+- Database design and optimization
+- Backend architecture
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- System Design
+- Operating Systems
+- Computer Networks
 
-`Java` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `REST APIs` `Git` `Docker`
+#### Technologies
+
+`Java` `JavaScript` `React.js` `Node.js` `Express.js` `Spring` `MongoDB` `PostgreSQL` `MySQL` `Redis` `Docker` `Git` `AWS`
 
 ---
 
@@ -232,31 +236,27 @@ Focused on building practical full-stack applications while strengthening core c
 |---|---|
 | 🏆 **Hackathons** | Participated in **5+ hackathons** |
 | ⭐ **Codex 2.0** | Selected among the **Top 100 students** |
-| 💻 **Code Parliament Hackathon** | Qualified for the **3rd Round** |
-| 🏅 **Sports Club Member** | Served as a **Sports Club Member (2025)** at Chitkara University |
-| 🎓 **Academic Performance** | Maintained a **CGPA of 8.77** |
+| 💻 **Code Parliament** | Qualified for the **3rd Round** |
+| 🏅 **Sports Club** | Sports Club Member at Chitkara University in 2025 |
+| 🎓 **Academics** | CGPA **8.77** |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Learning
 
-### AWS
+> Certification names were not specified in the current resume, so no unsupported certifications are listed here.
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<div align="center">
 
-### Oracle
+<img src="https://img.shields.io/badge/Continuous-Learning-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Oracle-Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer-Science-6366F1?style=for-the-badge"/>
 
-### NPTEL
+<img src="https://img.shields.io/badge/Software-Engineering-8B5CF6?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div>
 
 ---
 
@@ -268,16 +268,8 @@ Focused on building practical full-stack applications while strengthening core c
 <img src="https://img.shields.io/badge/LeetCode-Tanisha%20Singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/tanisha03-prt">
+<img src="https://img.shields.io/badge/GitHub-tanisha03--prt-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -288,13 +280,19 @@ Focused on building practical full-stack applications while strengthening core c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanisha03-prt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180"/>
+<a href="https://github.com/tanisha03-prt">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanisha03-prt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha03-prt&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=9B7EDE" height="180"/>
+<a href="https://github.com/tanisha03-prt">
+<img height="180" src="https://streak-stats.demolab.com/?user=tanisha03-prt&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=9B7EDE"/>
+</a>
 
-<br/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha03-prt&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9" height="180"/>
+<a href="https://github.com/tanisha03-prt">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha03-prt&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9"/>
+</a>
 
 </div>
 
@@ -324,7 +322,7 @@ Focused on building practical full-stack applications while strengthening core c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tanisha03-prt/tanisha03-prt/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/tanisha03-prt/tanisha03-prt/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -335,10 +333,17 @@ Focused on building practical full-stack applications while strengthening core c
 ```yaml
 Name: Tanisha Singh
 
+Education:
+  Degree: Bachelor of Engineering in Computer Science Engineering
+  University: Chitkara University
+  Graduation: 2028
+  CGPA: 8.77
+
 Learning:
   - Advanced Data Structures & Algorithms
   - System Design
-  - Spring Boot & Microservices
+  - Spring Boot
+  - Microservices
   - AI/ML Engineering
   - Cloud & DevOps
 
@@ -360,7 +365,7 @@ Open To:
   - Backend Engineering
   - AI/ML Projects
   - Open Source Collaboration
-
+````
 
 ---
 
@@ -369,22 +374,16 @@ Open To:
 <div align="center">
 
 <a href="mailto:tanishasingh0302@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-tanishasingh0302%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-tanishasingh0302%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/tanisha-singh-51b610352">
-<img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Singh-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/tanisha03-prt">
-<img src="https://img.shields.io/badge/GitHub-tanisha03--prt-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-tanisha03--prt-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <a href="https://leetcode.com/u/tanisha_singh8603">
 <img src="https://img.shields.io/badge/LeetCode-Tanisha%20Singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -398,7 +397,9 @@ Open To:
 
 ### "Build with purpose. Engineer for scale. Keep learning."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=120&section=footer"/>
 
 </div>
-'''
+```
